@@ -14,8 +14,8 @@ This repo installs a speedtest that generates plots to help to check your intern
 
 ## Dependencies:
 - [speedtest-cli](https://www.speedtest.net/pt/apps/cli) 
-- [lightppd] (https://github.com/lighttpd)
-- [rrdtool] (https://github.com/oetiker/rrdtool-2.x)
+- [lightppd](https://github.com/lighttpd)
+- [rrdtool](https://github.com/oetiker/rrdtool-2.x)
 - crontab
 
 
