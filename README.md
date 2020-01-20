@@ -2,11 +2,12 @@
 
 This repo installs a speedtest that generates plots to help to check your internet speed connection.
 
+## Files:
 [install.sh](./install.sh) 
 *Installation script, will install this script and check dependecies (crontab and lighttml)*
 *also will add speedtest.sh to your crontab to run each 5 min.*
 
-[index.html] (index.html)
+[index.html](index.html)
 *basic html file pointing to rrdgraph files. (will take a bit to fill the plots, takes at least 15 min)*
 
 [speedtest-rrd.sh](speedtest-rrd.sh)
